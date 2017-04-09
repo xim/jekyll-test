@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teater Åndsverk</title>
+    <description>Oppdateringer fra Teater Åndsverk</description>
+
+    <link>None</link>
+    <atom:link href="None/rss.xml" rel="self" type="application/rss+xml" />
+    <language>no-nb</language>
+    <pubDate>Fri, 21 Nov 1997 09:55:06 -0600</pubDate>
+  </channel>
+</rss>
