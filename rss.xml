@@ -4,9 +4,29 @@
     <title>Teater Åndsverk</title>
     <description>Oppdateringer fra Teater Åndsverk</description>
 
-    <link>None</link>
-    <atom:link href="None/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://xim.github.com/xim</link>
+    <atom:link href="https://xim.github.com/xim/rss.xml" rel="self" type="application/rss+xml" />
     <language>no-nb</language>
-    <pubDate>Fri, 21 Nov 1997 09:55:06 -0600</pubDate>
+    <pubDate>Mon, 10 Apr 2017 12:32:15 -0000</pubDate>
+    <item>
+      <title>Second post</title>
+      <link>https://xim.github.com/xim/posts/second/</link>
+      <guid>https://xim.github.com/xim/posts/second/</guid>
+      <pubDate>Mon, 10 Apr 2017 12:32:15 -0000</pubDate>
+      <description>
+        <![CDATA[<p>If it&#39;s not the first post, noone cares. Really.</p>
+]]>
+      </description>
+    </item>
+    <item>
+      <title>First!!!1!</title>
+      <link>https://xim.github.com/xim/posts/first11111/</link>
+      <guid>https://xim.github.com/xim/posts/first11111/</guid>
+      <pubDate>Mon, 10 Apr 2017 12:15:25 -0000</pubDate>
+      <description>
+        <![CDATA[<p><code>This is text.</code></p>
+]]>
+      </description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+body {
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+}
+div#content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 650px;
+  overflow: hidden;
+}
+
+nav ul {
+  padding-left: 1em;
+}
+nav .current-menu-item > a {
+  font-weight: bold;
+}
+
+img[style*="float:left"] {
+  margin-right: 1em;
+}
+img[style*="float:right"] {
+  margin-left: 1em;
+}
